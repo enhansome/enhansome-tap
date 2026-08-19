@@ -69,12 +69,12 @@ Things that produce TAP output.
 
 ### Fish
 
-* [Fishtape](https://github.com/fisherman/fishtape) ⭐ 383 | 🐛 4 | 🌐 Shell | 📅 2024-05-26 - TAP producer and test harness for fish.
+* [Fishtape](https://github.com/fisherman/fishtape) ⭐ 382 | 🐛 4 | 🌐 Shell | 📅 2024-05-26 - TAP producer and test harness for fish.
 
 ### Bash
 
 * [bats](https://github.com/sstephenson/bats) ⚠️ Archived - Bash Automated Testing System.
-* [ShellSpec](https://github.com/shellspec/shellspec) ⭐ 1,392 | 🐛 110 | 🌐 Shell | 📅 2025-11-24 - A full-featured BDD unit testing framework for POSIX shells.
+* [ShellSpec](https://github.com/shellspec/shellspec) ⭐ 1,393 | 🐛 110 | 🌐 Shell | 📅 2025-11-24 - A full-featured BDD unit testing framework for POSIX shells.
 
 [More…](https://testanything.org/producers.html)
 
@@ -124,4 +124,4 @@ Things that consume TAP output.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
