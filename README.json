@@ -330,7 +330,7 @@
                 "last_commit": "2026-07-27T18:51:00Z",
                 "owner": "tapjs",
                 "repo": "tapjs",
-                "stars": 2426
+                "stars": 2425
               }
             },
             {
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:55:35.714Z",
+    "last_updated": "2026-08-19T15:45:32.263Z",
     "original_repository": "sindresorhus/awesome-tap",
     "original_repository_id": 48281676,
     "original_repository_sha": "d48d8763bee4c908f6529a4e4b9abc9915be098e",
