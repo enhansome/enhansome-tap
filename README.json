@@ -345,7 +345,7 @@
                 "last_commit": "2026-07-12T10:24:21Z",
                 "owner": "lorenzofox3",
                 "repo": "zora",
-                "stars": 540
+                "stars": 539
               }
             },
             {
@@ -427,7 +427,7 @@
                 "last_commit": "2019-09-27T17:21:43Z",
                 "owner": "sstephenson",
                 "repo": "bats",
-                "stars": 7105
+                "stars": 7104
               }
             },
             {
@@ -586,7 +586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:45:32.263Z",
+    "last_updated": "2026-08-20T15:48:23.075Z",
     "original_repository": "sindresorhus/awesome-tap",
     "original_repository_id": 48281676,
     "original_repository_sha": "d48d8763bee4c908f6529a4e4b9abc9915be098e",

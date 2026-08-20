@@ -43,7 +43,7 @@ TAP is a simple text-based interface between testing modules in a test harness.
 
 ### Go
 
-* [tapfmt](https://github.com/coreybutler/tapfmt) ⭐ 3 | 🐛 1 | 🌐 Go | 📅 2022-12-23 - Standalone cross-platform formatter.
+* [tapfmt](https://github.com/coreybutler/tapfmt) ⭐ 4 | 🐛 1 | 🌐 Go | 📅 2022-12-23 - Standalone cross-platform formatter.
 
 ## Producers
 
@@ -54,7 +54,7 @@ Things that produce TAP output.
 * [AVA](https://github.com/sindresorhus/ava) ⭐ 20,832 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-17 - Futuristic test runner (`$ ava --tap`).
 * [tape](https://github.com/substack/tape) ⭐ 5,798 | 🐛 40 | 🌐 JavaScript | 📅 2026-06-18 - TAP-producing test harness for Node.js and browsers.
 * [tap](https://github.com/isaacs/node-tap) ⭐ 2,425 | 🐛 17 | 🌐 JavaScript | 📅 2026-07-27 - TAP test framework for Node.js.
-* [zora](https://github.com/lorenzofox3/zora) ⭐ 540 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-12 - TAP-producing test runner that works with ES2015 without Babel.
+* [zora](https://github.com/lorenzofox3/zora) ⭐ 539 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-12 - TAP-producing test runner that works with ES2015 without Babel.
 * [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) ⭐ 395 | 🐛 23 | 🌐 JavaScript | 📅 2024-09-20 - TAP output for Jasmine.
 * [mos](https://github.com/zkochan/mos) ⚠️ Archived - Markdown file generator and tester (`$ mos test --tap`).
 * [qunit-tap](https://github.com/twada/qunit-tap) ⭐ 72 | 🐛 1 | 🌐 JavaScript | 📅 2017-04-06 - TAP output for QUnit.
@@ -109,7 +109,7 @@ Things that consume TAP output.
 
 ## Tutorials
 
-* [test-anything](https://github.com/finnp/test-anything) ⭐ 169 | 🐛 0 | 🌐 JavaScript | 📅 2023-04-02 - Learn to test anything with TAP through an interactive workshop.
+* [test-anything](https://github.com/finnp/test-anything) ⭐ 170 | 🐛 0 | 🌐 JavaScript | 📅 2023-04-02 - Learn to test anything with TAP through an interactive workshop.
 
 ## Documentation
 
@@ -124,4 +124,4 @@ Things that consume TAP output.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
