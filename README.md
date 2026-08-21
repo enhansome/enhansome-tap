@@ -21,7 +21,7 @@ TAP is a simple text-based interface between testing modules in a test harness.
 
 ### JavaScript
 
-* [faucet](https://github.com/substack/faucet) ⭐ 557 | 🐛 18 | 🌐 JavaScript | 📅 2024-02-16 - Human-readable summarizer.
+* [faucet](https://github.com/substack/faucet) ⭐ 556 | 🐛 18 | 🌐 JavaScript | 📅 2024-02-16 - Human-readable summarizer.
 * [tap-spec](https://github.com/scottcorgan/tap-spec) ⭐ 282 | 🐛 11 | 🌐 JavaScript | 📅 2024-06-01 - Mocha-like spec reporter.
 * [tap-nyan](https://github.com/calvinmetcalf/tap-nyan) ⭐ 148 | 🐛 5 | 🌐 JavaScript | 📅 2019-05-06 - Nyan cat.
 * [tap-diff](https://github.com/axross/tap-diff) ⚠️ Archived - Human-friendly output with diffing.
@@ -51,7 +51,7 @@ Things that produce TAP output.
 
 ### JavaScript
 
-* [AVA](https://github.com/sindresorhus/ava) ⭐ 20,832 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-17 - Futuristic test runner (`$ ava --tap`).
+* [AVA](https://github.com/sindresorhus/ava) ⭐ 20,831 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-17 - Futuristic test runner (`$ ava --tap`).
 * [tape](https://github.com/substack/tape) ⭐ 5,798 | 🐛 40 | 🌐 JavaScript | 📅 2026-06-18 - TAP-producing test harness for Node.js and browsers.
 * [tap](https://github.com/isaacs/node-tap) ⭐ 2,425 | 🐛 17 | 🌐 JavaScript | 📅 2026-07-27 - TAP test framework for Node.js.
 * [zora](https://github.com/lorenzofox3/zora) ⭐ 539 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-12 - TAP-producing test runner that works with ES2015 without Babel.
@@ -124,4 +124,4 @@ Things that consume TAP output.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
