@@ -51,9 +51,9 @@ Things that produce TAP output.
 
 ### JavaScript
 
-* [AVA](https://github.com/sindresorhus/ava) ⭐ 20,831 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-17 - Futuristic test runner (`$ ava --tap`).
+* [AVA](https://github.com/sindresorhus/ava) ⭐ 20,830 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-17 - Futuristic test runner (`$ ava --tap`).
 * [tape](https://github.com/substack/tape) ⭐ 5,798 | 🐛 40 | 🌐 JavaScript | 📅 2026-06-18 - TAP-producing test harness for Node.js and browsers.
-* [tap](https://github.com/isaacs/node-tap) ⭐ 2,425 | 🐛 17 | 🌐 JavaScript | 📅 2026-07-27 - TAP test framework for Node.js.
+* [tap](https://github.com/isaacs/node-tap) ⭐ 2,424 | 🐛 17 | 🌐 JavaScript | 📅 2026-07-27 - TAP test framework for Node.js.
 * [zora](https://github.com/lorenzofox3/zora) ⭐ 539 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-12 - TAP-producing test runner that works with ES2015 without Babel.
 * [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) ⭐ 395 | 🐛 23 | 🌐 JavaScript | 📅 2024-09-20 - TAP output for Jasmine.
 * [mos](https://github.com/zkochan/mos) ⚠️ Archived - Markdown file generator and tester (`$ mos test --tap`).
@@ -124,4 +124,4 @@ Things that consume TAP output.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
