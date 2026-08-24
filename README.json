@@ -279,6 +279,28 @@
           "description": null,
           "node_type": "group",
           "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tapfmt",
+              "description": "Standalone cross-platform formatter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 581626327,
+                "language": "Go",
+                "last_commit": "2022-12-23T23:52:47Z",
+                "owner": "coreybutler",
+                "repo": "tapfmt",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
         }
       ],
       "title": "Reporters"
@@ -330,7 +352,7 @@
                 "last_commit": "2026-07-27T18:51:00Z",
                 "owner": "tapjs",
                 "repo": "tapjs",
-                "stars": 2424
+                "stars": 2425
               }
             },
             {
@@ -412,6 +434,50 @@
           "description": null,
           "node_type": "group",
           "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TAP",
+              "description": "A Swift package for the Test Anything Protocol (v13).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 255964194,
+                "language": "Swift",
+                "last_commit": "2021-05-19T16:28:15Z",
+                "owner": "SwiftDocOrg",
+                "repo": "TAP",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Swift"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fishtape",
+              "description": "TAP producer and test harness for fish.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31851515,
+                "language": "Shell",
+                "last_commit": "2024-05-26T11:16:10Z",
+                "owner": "jorgebucaran",
+                "repo": "fishtape",
+                "stars": 382
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fish"
         },
         {
           "children": [
@@ -580,13 +646,77 @@
           "description": null,
           "node_type": "group",
           "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tappy",
+              "description": "Tools for working with TAP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17535311,
+                "language": "Python",
+                "last_commit": "2026-08-18T07:01:52Z",
+                "owner": "python-tap",
+                "repo": "tappy",
+                "stars": 147
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
         }
       ],
       "title": "Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "test-anything",
+          "description": "Learn to test anything with TAP through an interactive workshop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22466241,
+            "language": "JavaScript",
+            "last_commit": "2023-04-02T19:32:03Z",
+            "owner": "workshopper",
+            "repo": "test-anything",
+            "stars": 170
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Discuss",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22891743,
+            "language": null,
+            "last_commit": "2024-08-16T06:56:22Z",
+            "owner": "TestAnything",
+            "repo": "Specification",
+            "stars": 102
+          }
+        }
+      ],
+      "title": "Community"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:35:46.888Z",
+    "last_updated": "2026-08-24T14:21:43.365Z",
     "original_repository": "sindresorhus/awesome-tap",
     "original_repository_id": 48281676,
     "original_repository_sha": "d48d8763bee4c908f6529a4e4b9abc9915be098e",
