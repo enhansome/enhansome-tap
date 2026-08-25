@@ -658,7 +658,7 @@
                 "archived": false,
                 "id": 17535311,
                 "language": "Python",
-                "last_commit": "2026-08-24T17:42:35Z",
+                "last_commit": "2026-08-25T07:03:11Z",
                 "owner": "python-tap",
                 "repo": "tappy",
                 "stars": 147
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:14:43.238Z",
+    "last_updated": "2026-08-25T15:59:18.353Z",
     "original_repository": "sindresorhus/awesome-tap",
     "original_repository_id": 48281676,
     "original_repository_sha": "d48d8763bee4c908f6529a4e4b9abc9915be098e",
