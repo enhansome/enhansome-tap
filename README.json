@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "human-readable TAP summarizer",
+                "homepage": null,
                 "id": 15457879,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-02-16T08:33:39Z",
+                "open_issues": 18,
                 "owner": "tape-testing",
                 "repo": "faucet",
-                "stars": 556
+                "stars": 556,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -28,12 +33,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Formatted TAP output like Mocha's spec reporter",
+                "homepage": null,
                 "id": 15590361,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-01T02:03:33Z",
+                "open_issues": 11,
                 "owner": "scottcorgan",
                 "repo": "tap-spec",
-                "stars": 282
+                "stars": 282,
+                "topics": [
+                  "tap",
+                  "tap-spec",
+                  "tape",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -44,12 +59,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tap -> nyan",
+                "homepage": null,
                 "id": 18114533,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-05-06T05:04:42Z",
+                "open_issues": 5,
                 "owner": "calvinmetcalf",
                 "repo": "tap-nyan",
-                "stars": 148
+                "stars": 148,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -60,12 +80,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":dancers: The most human-friendly TAP reporter.",
+                "homepage": null,
                 "id": 46109587,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-09-10T08:53:40Z",
+                "open_issues": 11,
                 "owner": "axross",
                 "repo": "tap-diff",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -76,12 +101,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":bell: the Notifier for OS X, Linux and Windows as TAP reporter",
+                "homepage": null,
                 "id": 46161469,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-07-18T15:33:09Z",
+                "open_issues": 3,
                 "owner": "axross",
                 "repo": "tap-notify",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -92,12 +122,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TAP output formatter using difflet for inequality errors.",
+                "homepage": null,
                 "id": 21089268,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-07-08T16:54:49Z",
+                "open_issues": 2,
                 "owner": "namuol",
                 "repo": "tap-difflet",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -108,12 +143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Summarize TAP",
+                "homepage": null,
                 "id": 46651834,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-05-24T08:55:41Z",
+                "open_issues": 3,
                 "owner": "zoubin",
                 "repo": "tap-summary",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -124,12 +164,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TAP to xUnit XML converter",
+                "homepage": null,
                 "id": 24951737,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-08-19T21:30:45Z",
+                "open_issues": 11,
                 "owner": "aghassemi",
                 "repo": "tap-xunit",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "javascript",
+                  "junit",
+                  "tap",
+                  "tape",
+                  "xunit"
+                ]
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -140,12 +191,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Formatted TAP output with dots ...",
+                "homepage": null,
                 "id": 17883296,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-06-18T21:36:23Z",
+                "open_issues": 7,
                 "owner": "scottcorgan",
                 "repo": "tap-dot",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -156,12 +212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make Test Anything Protocol test runner output nicely readable.",
+                "homepage": null,
                 "id": 12811930,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2013-09-15T22:00:08Z",
+                "open_issues": 5,
                 "owner": "toolness",
                 "repo": "tap-prettify",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -172,12 +233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Format a TAP stream using Mocha's set of reporters",
+                "homepage": null,
                 "id": 34585388,
                 "language": "JavaScript",
+                "license": "BlueOak-1.0.0",
                 "last_commit": "2025-10-25T19:22:57Z",
+                "open_issues": 17,
                 "owner": "tapjs",
                 "repo": "tap-mocha-reporter",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -188,12 +254,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JSON TAP output formatter.",
+                "homepage": null,
                 "id": 18465925,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-10-25T18:56:33Z",
+                "open_issues": 4,
                 "owner": "gummesson",
                 "repo": "tap-json",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -204,12 +275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bail out when the first TAP test fails",
+                "homepage": null,
                 "id": 17111869,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-03-03T12:20:30Z",
+                "open_issues": 3,
                 "owner": "juliangruber",
                 "repo": "tap-bail",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -220,12 +296,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tap consumer that filters on failed tests",
+                "homepage": null,
                 "id": 4652282,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-09-06T11:15:36Z",
+                "open_issues": 1,
                 "owner": "clux",
                 "repo": "tap-pessimist",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -236,12 +317,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Formats TAP output for TeamCity.",
+                "homepage": null,
                 "id": 52421644,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2017-12-19T15:21:27Z",
+                "open_issues": 1,
                 "owner": "smockle-archive",
                 "repo": "tap-teamcity",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -252,12 +338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal TAP output formatter.",
+                "homepage": "https://github.com/derhuerst/tap-min",
                 "id": 72848006,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2023-08-20T11:42:01Z",
+                "open_issues": 0,
                 "owner": "derhuerst",
                 "repo": "tap-min",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -268,12 +359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple tap formatter: does not clutter output with successes and shows a diff of actual vs. expected.",
+                "homepage": null,
                 "id": 34825928,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2015-04-30T21:11:00Z",
+                "open_issues": 2,
                 "owner": "joeybaker",
                 "repo": "tap-simple",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -284,12 +380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JSON TAP output formatter.",
+                "homepage": "https://www.npmjs.com/package/ava-tap-json",
                 "id": 184678878,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-10-25T18:58:29Z",
+                "open_issues": 0,
                 "owner": "yovasx2",
                 "repo": "ava-tap-json",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             }
@@ -307,12 +408,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A standalone TAP formatter application for all operating systems and runtimes.",
+                "homepage": null,
                 "id": 581626327,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2022-12-23T23:52:47Z",
+                "open_issues": 1,
                 "owner": "coreybutler",
                 "repo": "tapfmt",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             }
@@ -336,12 +442,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Node.js test runner that lets you develop with confidence 🚀",
+                "homepage": null,
                 "id": 26820798,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-17T10:19:10Z",
+                "open_issues": 73,
                 "owner": "avajs",
                 "repo": "ava",
-                "stars": 20830
+                "stars": 20830,
+                "topics": [
+                  "assert",
+                  "async",
+                  "async-functions",
+                  "ava",
+                  "cli",
+                  "cli-app",
+                  "concurrency",
+                  "javascript",
+                  "node",
+                  "nodejs",
+                  "performance",
+                  "tap",
+                  "tdd",
+                  "test-framework",
+                  "test-runner",
+                  "testing",
+                  "unicorns",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -352,12 +482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tap-producing test harness for node and browsers",
+                "homepage": null,
                 "id": 6853358,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-18T18:06:06Z",
+                "open_issues": 40,
                 "owner": "tape-testing",
                 "repo": "tape",
-                "stars": 5798
+                "stars": 5798,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -368,12 +503,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Test Anything Protocol tools for node",
+                "homepage": "https://node-tap.org/",
                 "id": 1507818,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-27T18:51:00Z",
+                "open_issues": 17,
                 "owner": "tapjs",
                 "repo": "tapjs",
-                "stars": 2425
+                "stars": 2426,
+                "topics": [
+                  "assert",
+                  "bdd",
+                  "code-coverage",
+                  "commonjs",
+                  "esm",
+                  "framework",
+                  "node",
+                  "tap",
+                  "tdd",
+                  "test",
+                  "testanythingprotocol",
+                  "testing",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -384,12 +538,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightest, yet Fastest Javascript test runner for nodejs and browsers",
+                "homepage": null,
                 "id": 76791809,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-12T10:24:21Z",
+                "open_issues": 2,
                 "owner": "lorenzofox3",
                 "repo": "zora",
-                "stars": 539
+                "stars": 539,
+                "topics": [
+                  "assertion",
+                  "deno",
+                  "javascript",
+                  "javascript-test-harness",
+                  "mocha",
+                  "nodejs",
+                  "tap",
+                  "tdd",
+                  "test",
+                  "testing",
+                  "testing-tools",
+                  "typescript",
+                  "zora"
+                ]
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -400,12 +573,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reporter classes for the jasmine test framework. Includes JUnitXmlReporter for generating junit xml output for running in CI environments like Jenkins.",
+                "homepage": null,
                 "id": 911608,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-09-20T15:31:37Z",
+                "open_issues": 23,
                 "owner": "larrymyers",
                 "repo": "jasmine-reporters",
-                "stars": 395
+                "stars": 395,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -416,12 +594,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":pill: A pluggable module that injects content into your markdown files via hidden JavaScript snippets",
+                "homepage": null,
                 "id": 54432213,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2019-11-03T14:14:19Z",
+                "open_issues": 13,
                 "owner": "mosjs",
                 "repo": "mos",
-                "stars": 107
+                "stars": 107,
+                "topics": [
+                  "markdown",
+                  "node",
+                  "nodejs",
+                  "readme"
+                ]
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -432,12 +620,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TAP Output Producer Plugin for QUnit",
+                "homepage": null,
                 "id": 696633,
                 "language": "JavaScript",
+                "license": "GPL-2.0",
                 "last_commit": "2017-04-06T09:00:52Z",
+                "open_issues": 1,
                 "owner": "twada",
                 "repo": "qunit-tap",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -448,12 +641,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Karma plugin to report test results in TAP.",
+                "homepage": null,
                 "id": 16892913,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-07-10T19:29:28Z",
+                "open_issues": 0,
                 "owner": "fumiakiy",
                 "repo": "karma-tap-reporter",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             }
@@ -471,12 +669,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Swift package for the Test Anything Protocol (v13)",
+                "homepage": null,
                 "id": 255964194,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2021-05-19T16:28:15Z",
+                "open_issues": 0,
                 "owner": "SwiftDocOrg",
                 "repo": "TAP",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "swift",
+                  "tap"
+                ]
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             }
@@ -494,12 +700,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "100% pure-Fish test runner",
+                "homepage": null,
                 "id": 31851515,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2024-05-26T11:16:10Z",
+                "open_issues": 4,
                 "owner": "jorgebucaran",
                 "repo": "fishtape",
-                "stars": 383
+                "stars": 383,
+                "topics": [
+                  "fish",
+                  "fish-plugin",
+                  "tap",
+                  "test"
+                ]
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             }
@@ -517,12 +733,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Bash Automated Testing System",
+                "homepage": null,
                 "id": 3064355,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2019-09-27T17:21:43Z",
+                "open_issues": 135,
                 "owner": "sstephenson",
                 "repo": "bats",
-                "stars": 7102
+                "stars": 7102,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -533,12 +754,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells",
+                "homepage": "https://shellspec.info",
                 "id": 169286974,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2025-11-24T18:57:18Z",
+                "open_issues": 110,
                 "owner": "shellspec",
                 "repo": "shellspec",
-                "stars": 1394
+                "stars": 1394,
+                "topics": [
+                  "bash",
+                  "bdd",
+                  "coverage",
+                  "dash",
+                  "kcov",
+                  "ksh",
+                  "mock",
+                  "posix-compliant",
+                  "posix-sh",
+                  "script",
+                  "shell",
+                  "shell-script",
+                  "shellspec",
+                  "tdd",
+                  "test",
+                  "testing",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             }
@@ -562,12 +806,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "parse the test anything protocol",
+                "homepage": null,
                 "id": 7682439,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-09-15T20:26:39Z",
+                "open_issues": 0,
                 "owner": "tapjs",
                 "repo": "tap-parser",
-                "stars": 121
+                "stars": 121,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -578,12 +827,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A different tap parser",
+                "homepage": null,
                 "id": 26945563,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T02:42:00Z",
+                "open_issues": 19,
                 "owner": "scottcorgan",
                 "repo": "tap-out",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -594,12 +848,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A parser for the yamlish format",
+                "homepage": null,
                 "id": 1580012,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2015-05-21T00:59:46Z",
+                "open_issues": 2,
                 "owner": "isaacs",
                 "repo": "yamlish",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             }
@@ -623,12 +882,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pipe your JavaScript into a browser, logging console output in Node",
+                "homepage": null,
                 "id": 24965109,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-08T02:20:15Z",
+                "open_issues": 32,
                 "owner": "hughsk",
                 "repo": "smokestack",
-                "stars": 243
+                "stars": 243,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -639,12 +903,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "prettifies TAP in the browser's console",
+                "homepage": null,
                 "id": 36742703,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-06-16T15:37:07Z",
+                "open_issues": 3,
                 "owner": "Experience-Monks",
                 "repo": "tap-dev-tool",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -655,12 +924,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "library and CLI tool that merges multiple Test Anything Protocol streams",
+                "homepage": null,
                 "id": 36627540,
                 "language": "LiveScript",
+                "license": "ISC",
                 "last_commit": "2019-11-21T18:28:50Z",
+                "open_issues": 1,
                 "owner": "anko",
                 "repo": "tap-merge",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "merge",
+                  "stream",
+                  "tap"
+                ]
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             },
@@ -671,12 +949,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run TAP tests at Sauce Labs.",
+                "homepage": "https://github.com/derhuerst/chutney",
                 "id": 80079176,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2026-08-10T09:31:47Z",
+                "open_issues": 2,
                 "owner": "derhuerst",
                 "repo": "chutney",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "browser",
+                  "browserify",
+                  "sauce-labs",
+                  "tap",
+                  "tape",
+                  "tests"
+                ]
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             }
@@ -694,12 +984,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Test Anything Protocol (TAP) tools",
+                "homepage": "http://tappy.readthedocs.io/en/latest/",
                 "id": 17535311,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-25T07:03:11Z",
+                "open_issues": 7,
                 "owner": "python-tap",
                 "repo": "tappy",
-                "stars": 147
+                "stars": 147,
+                "topics": [
+                  "python",
+                  "tap"
+                ]
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
             }
@@ -721,12 +1019,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":mortar_board: Learn to test your code",
+            "homepage": "http://nodeschool.io/",
             "id": 22466241,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-04-02T19:32:03Z",
+            "open_issues": 0,
             "owner": "workshopper",
             "repo": "test-anything",
-            "stars": 170
+            "stars": 170,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:05.479Z"
         }
@@ -743,12 +1046,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Working towards a new TAP specification",
+            "homepage": null,
             "id": 22891743,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-16T06:56:22Z",
+            "open_issues": 24,
             "owner": "TestAnything",
             "repo": "Specification",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "specification"
+            ]
           },
           "first_seen": "2026-08-29T00:01:05.479Z"
         }
@@ -757,15 +1067,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:01:05.479Z",
+    "last_updated": "2026-08-29T04:39:43.453Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Useful resources for the Test Anything Protocol",
+      "homepage": null,
       "id": 48281676,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-11-11T06:52:18Z",
+      "open_issues": 0,
       "owner": "sindresorhus",
       "repo": "awesome-tap",
-      "stars": 654
+      "stars": 654,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list",
+        "tap",
+        "test-anything-protocol",
+        "test-runner"
+      ]
     },
     "original_repository_sha": "d48d8763bee4c908f6529a4e4b9abc9915be098e",
     "enhanced_repository": "enhansome/enhansome-tap",
