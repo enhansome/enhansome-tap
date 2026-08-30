@@ -451,7 +451,7 @@
                 "open_issues": 74,
                 "owner": "avajs",
                 "repo": "ava",
-                "stars": 20830,
+                "stars": 20829,
                 "topics": [
                   "assert",
                   "async",
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T18:27:47.003Z",
+    "last_updated": "2026-08-30T18:38:07.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
