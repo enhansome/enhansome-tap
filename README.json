@@ -448,7 +448,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-06-17T10:19:10Z",
-                "open_issues": 74,
+                "open_issues": 73,
                 "owner": "avajs",
                 "repo": "ava",
                 "stars": 20827,
@@ -509,7 +509,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-27T18:51:00Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "tapjs",
                 "repo": "tapjs",
                 "stars": 2426,
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T18:29:28.903Z",
+    "last_updated": "2026-09-02T18:41:16.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
