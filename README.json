@@ -42,7 +42,7 @@
                 "open_issues": 11,
                 "owner": "scottcorgan",
                 "repo": "tap-spec",
-                "stars": 282,
+                "stars": 283,
                 "topics": [
                   "tap",
                   "tap-spec",
@@ -508,11 +508,11 @@
                 "id": 1507818,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-07-27T18:51:00Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-03T23:20:19Z",
+                "open_issues": 16,
                 "owner": "tapjs",
                 "repo": "tapjs",
-                "stars": 2426,
+                "stars": 2425,
                 "topics": [
                   "assert",
                   "bdd",
@@ -891,7 +891,7 @@
                 "open_issues": 32,
                 "owner": "hughsk",
                 "repo": "smokestack",
-                "stars": 243,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
@@ -912,7 +912,7 @@
                 "open_issues": 3,
                 "owner": "Experience-Monks",
                 "repo": "tap-dev-tool",
-                "stars": 29,
+                "stars": 30,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
@@ -933,7 +933,7 @@
                 "open_issues": 1,
                 "owner": "anko",
                 "repo": "tap-merge",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "merge",
                   "stream",
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:37:29.648Z",
+    "last_updated": "2026-09-04T18:23:28.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",

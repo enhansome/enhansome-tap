@@ -22,7 +22,7 @@ TAP is a simple text-based interface between testing modules in a test harness.
 ### JavaScript
 
 * [faucet](https://github.com/substack/faucet) ⭐ 556 | 🐛 18 | 🌐 JavaScript | 📅 2024-02-16 - Human-readable summarizer.
-* [tap-spec](https://github.com/scottcorgan/tap-spec) ⭐ 282 | 🐛 11 | 🌐 JavaScript | 📅 2024-06-01 - Mocha-like spec reporter.
+* [tap-spec](https://github.com/scottcorgan/tap-spec) ⭐ 283 | 🐛 11 | 🌐 JavaScript | 📅 2024-06-01 - Mocha-like spec reporter.
 * [tap-nyan](https://github.com/calvinmetcalf/tap-nyan) ⭐ 148 | 🐛 5 | 🌐 JavaScript | 📅 2019-05-06 - Nyan cat.
 * [tap-diff](https://github.com/axross/tap-diff) ⚠️ Archived - Human-friendly output with diffing.
 * [tap-notify](https://github.com/axross/tap-notify) ⭐ 61 | 🐛 3 | 🌐 JavaScript | 📅 2019-07-18 - Notifier for macOS, Linux and Windows.
@@ -53,7 +53,7 @@ Things that produce TAP output.
 
 * [AVA](https://github.com/sindresorhus/ava) ⭐ 20,828 | 🐛 74 | 🌐 JavaScript | 📅 2026-06-17 - Futuristic test runner (`$ ava --tap`).
 * [tape](https://github.com/substack/tape) ⭐ 5,797 | 🐛 40 | 🌐 JavaScript | 📅 2026-06-18 - TAP-producing test harness for Node.js and browsers.
-* [tap](https://github.com/isaacs/node-tap) ⭐ 2,426 | 🐛 18 | 🌐 JavaScript | 📅 2026-07-27 - TAP test framework for Node.js.
+* [tap](https://github.com/isaacs/node-tap) ⭐ 2,425 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-03 - TAP test framework for Node.js.
 * [zora](https://github.com/lorenzofox3/zora) ⭐ 539 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-12 - TAP-producing test runner that works with ES2015 without Babel.
 * [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) ⭐ 395 | 🐛 23 | 🌐 JavaScript | 📅 2024-09-20 - TAP output for Jasmine.
 * [mos](https://github.com/zkochan/mos) ⚠️ Archived - Markdown file generator and tester (`$ mos test --tap`).
@@ -94,10 +94,10 @@ Things that consume TAP output.
 
 ### JavaScript
 
-* [smokestack](https://github.com/hughsk/smokestack) ⭐ 243 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-08 - Run TAP tests in a browser and write the output to `stdout`.
-* [tap-dev-tool](https://github.com/Jam3/tap-dev-tool) ⭐ 29 | 🐛 3 | 🌐 JavaScript | 📅 2015-06-16 - Prettify TAP in the browser console.
-* [tap-merge](https://github.com/anko/tap-merge) ⭐ 13 | 🐛 1 | 🌐 LiveScript | 📅 2019-11-21 - Merge multiple TAP streams.
-* [chutney](https://github.com/derhuerst/chutney) ⭐ 4 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-10 - Run TAP tests at Sauce Labs. Lightweight [smokestack](https://github.com/hughsk/smokestack) ⭐ 243 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-08 alternative.
+* [smokestack](https://github.com/hughsk/smokestack) ⭐ 244 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-08 - Run TAP tests in a browser and write the output to `stdout`.
+* [tap-dev-tool](https://github.com/Jam3/tap-dev-tool) ⭐ 30 | 🐛 3 | 🌐 JavaScript | 📅 2015-06-16 - Prettify TAP in the browser console.
+* [tap-merge](https://github.com/anko/tap-merge) ⭐ 14 | 🐛 1 | 🌐 LiveScript | 📅 2019-11-21 - Merge multiple TAP streams.
+* [chutney](https://github.com/derhuerst/chutney) ⭐ 4 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-10 - Run TAP tests at Sauce Labs. Lightweight [smokestack](https://github.com/hughsk/smokestack) ⭐ 244 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-08 alternative.
 
 ### Python
 
@@ -124,4 +124,4 @@ Things that consume TAP output.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
