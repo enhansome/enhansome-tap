@@ -451,7 +451,7 @@
                 "open_issues": 74,
                 "owner": "avajs",
                 "repo": "ava",
-                "stars": 20828,
+                "stars": 20827,
                 "topics": [
                   "assert",
                   "async",
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T17:20:12.533Z",
+    "last_updated": "2026-09-06T17:36:24.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
@@ -1079,7 +1079,7 @@
       "open_issues": 0,
       "owner": "sindresorhus",
       "repo": "awesome-tap",
-      "stars": 654,
+      "stars": 655,
       "topics": [
         "awesome",
         "awesome-list",
