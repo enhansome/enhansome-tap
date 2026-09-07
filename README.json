@@ -954,7 +954,7 @@
                 "id": 80079176,
                 "language": "JavaScript",
                 "license": "ISC",
-                "last_commit": "2026-08-10T09:31:47Z",
+                "last_commit": "2026-09-06T20:39:20Z",
                 "open_issues": 2,
                 "owner": "derhuerst",
                 "repo": "chutney",
@@ -989,8 +989,8 @@
                 "id": 17535311,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-01T07:02:38Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-07T17:45:27Z",
+                "open_issues": 8,
                 "owner": "python-tap",
                 "repo": "tappy",
                 "stars": 147,
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:36:24.992Z",
+    "last_updated": "2026-09-07T19:09:05.504Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
