@@ -512,7 +512,7 @@
                 "open_issues": 16,
                 "owner": "tapjs",
                 "repo": "tapjs",
-                "stars": 2425,
+                "stars": 2424,
                 "topics": [
                   "assert",
                   "bdd",
@@ -582,7 +582,7 @@
                 "open_issues": 23,
                 "owner": "larrymyers",
                 "repo": "jasmine-reporters",
-                "stars": 395,
+                "stars": 394,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
@@ -742,7 +742,7 @@
                 "open_issues": 135,
                 "owner": "sstephenson",
                 "repo": "bats",
-                "stars": 7102,
+                "stars": 7101,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
@@ -989,8 +989,8 @@
                 "id": 17535311,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-07T17:45:27Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-08T07:02:31Z",
+                "open_issues": 7,
                 "owner": "python-tap",
                 "repo": "tappy",
                 "stars": 147,
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T19:09:05.504Z",
+    "last_updated": "2026-09-08T18:39:19.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
