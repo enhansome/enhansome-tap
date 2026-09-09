@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "tape-testing",
                 "repo": "faucet",
-                "stars": 557,
+                "stars": 555,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
@@ -451,7 +451,7 @@
                 "open_issues": 74,
                 "owner": "avajs",
                 "repo": "ava",
-                "stars": 20827,
+                "stars": 20826,
                 "topics": [
                   "assert",
                   "async",
@@ -491,7 +491,7 @@
                 "open_issues": 40,
                 "owner": "tape-testing",
                 "repo": "tape",
-                "stars": 5798,
+                "stars": 5796,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
@@ -512,7 +512,7 @@
                 "open_issues": 16,
                 "owner": "tapjs",
                 "repo": "tapjs",
-                "stars": 2424,
+                "stars": 2423,
                 "topics": [
                   "assert",
                   "bdd",
@@ -815,7 +815,7 @@
                 "open_issues": 0,
                 "owner": "tapjs",
                 "repo": "tap-parser",
-                "stars": 121,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
@@ -1028,7 +1028,7 @@
             "open_issues": 0,
             "owner": "workshopper",
             "repo": "test-anything",
-            "stars": 170,
+            "stars": 169,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:05.479Z"
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:39:19.547Z",
+    "last_updated": "2026-09-09T18:35:17.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
