@@ -97,7 +97,7 @@ Things that consume TAP output.
 * [smokestack](https://github.com/hughsk/smokestack) ⭐ 244 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-08 - Run TAP tests in a browser and write the output to `stdout`.
 * [tap-dev-tool](https://github.com/Jam3/tap-dev-tool) ⭐ 30 | 🐛 3 | 🌐 JavaScript | 📅 2015-06-16 - Prettify TAP in the browser console.
 * [tap-merge](https://github.com/anko/tap-merge) ⭐ 14 | 🐛 1 | 🌐 LiveScript | 📅 2019-11-21 - Merge multiple TAP streams.
-* [chutney](https://github.com/derhuerst/chutney) ⭐ 4 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-06 - Run TAP tests at Sauce Labs. Lightweight [smokestack](https://github.com/hughsk/smokestack) ⭐ 244 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-08 alternative.
+* [chutney](https://github.com/derhuerst/chutney) ⭐ 4 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-13 - Run TAP tests at Sauce Labs. Lightweight [smokestack](https://github.com/hughsk/smokestack) ⭐ 244 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-08 alternative.
 
 ### Python
 
@@ -124,4 +124,4 @@ Things that consume TAP output.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._

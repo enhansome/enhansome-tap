@@ -954,8 +954,8 @@
                 "id": 80079176,
                 "language": "JavaScript",
                 "license": "ISC",
-                "last_commit": "2026-09-06T20:39:20Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-13T04:57:32Z",
+                "open_issues": 3,
                 "owner": "derhuerst",
                 "repo": "chutney",
                 "stars": 4,
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:45:03.997Z",
+    "last_updated": "2026-09-13T18:11:36.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
