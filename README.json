@@ -491,7 +491,7 @@
                 "open_issues": 40,
                 "owner": "tape-testing",
                 "repo": "tape",
-                "stars": 5796,
+                "stars": 5797,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T18:27:35.125Z",
+    "last_updated": "2026-09-19T18:00:40.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
