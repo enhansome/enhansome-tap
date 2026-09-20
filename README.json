@@ -451,7 +451,7 @@
                 "open_issues": 78,
                 "owner": "avajs",
                 "repo": "ava",
-                "stars": 20829,
+                "stars": 20828,
                 "topics": [
                   "assert",
                   "async",
@@ -509,10 +509,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T23:20:19Z",
-                "open_issues": 16,
+                "open_issues": 20,
                 "owner": "tapjs",
                 "repo": "tapjs",
-                "stars": 2423,
+                "stars": 2424,
                 "topics": [
                   "assert",
                   "bdd",
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:00:40.567Z",
+    "last_updated": "2026-09-20T18:11:56.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
