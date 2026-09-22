@@ -451,7 +451,7 @@
                 "open_issues": 78,
                 "owner": "avajs",
                 "repo": "ava",
-                "stars": 20827,
+                "stars": 20828,
                 "topics": [
                   "assert",
                   "async",
@@ -763,7 +763,7 @@
                 "open_issues": 110,
                 "owner": "shellspec",
                 "repo": "shellspec",
-                "stars": 1396,
+                "stars": 1395,
                 "topics": [
                   "bash",
                   "bdd",
@@ -989,8 +989,8 @@
                 "id": 17535311,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-21T17:39:29Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-22T07:02:51Z",
+                "open_issues": 7,
                 "owner": "python-tap",
                 "repo": "tappy",
                 "stars": 148,
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:58:54.310Z",
+    "last_updated": "2026-09-22T18:53:37.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
