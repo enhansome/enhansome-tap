@@ -25,7 +25,7 @@ TAP is a simple text-based interface between testing modules in a test harness.
 * [tap-spec](https://github.com/scottcorgan/tap-spec) ⭐ 283 | 🐛 11 | 🌐 JavaScript | 📅 2024-06-01 - Mocha-like spec reporter.
 * [tap-nyan](https://github.com/calvinmetcalf/tap-nyan) ⭐ 148 | 🐛 5 | 🌐 JavaScript | 📅 2019-05-06 - Nyan cat.
 * [tap-diff](https://github.com/axross/tap-diff) ⚠️ Archived - Human-friendly output with diffing.
-* [tap-notify](https://github.com/axross/tap-notify) ⭐ 61 | 🐛 3 | 🌐 JavaScript | 📅 2019-07-18 - Notifier for macOS, Linux and Windows.
+* [tap-notify](https://github.com/axross/tap-notify) ⭐ 62 | 🐛 3 | 🌐 JavaScript | 📅 2019-07-18 - Notifier for macOS, Linux and Windows.
 * [tap-difflet](https://github.com/namuol/tap-difflet) ⭐ 48 | 🐛 2 | 🌐 JavaScript | 📅 2019-07-08 - Minimal output with diffing.
 * [tap-summary](https://github.com/zoubin/tap-summary) ⭐ 45 | 🐛 3 | 🌐 JavaScript | 📅 2022-05-24 - Summarized output.
 * [tap-xunit](https://github.com/aghassemi/tap-xunit) ⭐ 41 | 🐛 11 | 🌐 JavaScript | 📅 2025-08-19 - xUnit output.
@@ -124,4 +124,4 @@ Things that consume TAP output.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
