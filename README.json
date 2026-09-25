@@ -451,7 +451,7 @@
                 "open_issues": 78,
                 "owner": "avajs",
                 "repo": "ava",
-                "stars": 20828,
+                "stars": 20826,
                 "topics": [
                   "assert",
                   "async",
@@ -763,7 +763,7 @@
                 "open_issues": 110,
                 "owner": "shellspec",
                 "repo": "shellspec",
-                "stars": 1395,
+                "stars": 1396,
                 "topics": [
                   "bash",
                   "bdd",
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T19:08:49.333Z",
+    "last_updated": "2026-09-25T19:14:29.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
