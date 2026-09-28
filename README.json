@@ -989,8 +989,8 @@
                 "id": 17535311,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-22T07:02:51Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-28T17:53:25Z",
+                "open_issues": 8,
                 "owner": "python-tap",
                 "repo": "tappy",
                 "stars": 148,
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:58:40.880Z",
+    "last_updated": "2026-09-28T21:13:47.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",

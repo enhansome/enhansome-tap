@@ -101,7 +101,7 @@ Things that consume TAP output.
 
 ### Python
 
-* [tappy](https://github.com/mblayman/tappy) ⭐ 148 | 🐛 7 | 🌐 Python | 📅 2026-09-22 - Tools for working with TAP.
+* [tappy](https://github.com/mblayman/tappy) ⭐ 148 | 🐛 8 | 🌐 Python | 📅 2026-09-28 - Tools for working with TAP.
 
 ## Articles
 
@@ -124,4 +124,4 @@ Things that consume TAP output.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
