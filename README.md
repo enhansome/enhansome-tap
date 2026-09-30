@@ -29,7 +29,7 @@ TAP is a simple text-based interface between testing modules in a test harness.
 * [tap-difflet](https://github.com/namuol/tap-difflet) ⭐ 48 | 🐛 2 | 🌐 JavaScript | 📅 2019-07-08 - Minimal output with diffing.
 * [tap-summary](https://github.com/zoubin/tap-summary) ⭐ 45 | 🐛 3 | 🌐 JavaScript | 📅 2022-05-24 - Summarized output.
 * [tap-xunit](https://github.com/aghassemi/tap-xunit) ⭐ 41 | 🐛 11 | 🌐 JavaScript | 📅 2025-08-19 - xUnit output.
-* [tap-dot](https://github.com/scottcorgan/tap-dot) ⭐ 38 | 🐛 7 | 🌐 JavaScript | 📅 2019-06-18 - Dotted output.
+* [tap-dot](https://github.com/scottcorgan/tap-dot) ⭐ 37 | 🐛 7 | 🌐 JavaScript | 📅 2019-06-18 - Dotted output.
 * [tap-prettify](https://github.com/toolness/tap-prettify) ⭐ 35 | 🐛 5 | 🌐 JavaScript | 📅 2013-09-15 - Nice readable output with diffing.
 * [tap-mocha-reporter](https://github.com/isaacs/tap-mocha-reporter) ⭐ 29 | 🐛 17 | 🌐 JavaScript | 📅 2025-10-25 - Use any of the [Mocha reporters](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters) ⭐ 29 | 🐛 17 | 🌐 JavaScript | 📅 2025-10-25.
 * [tap-json](https://github.com/gummesson/tap-json) ⭐ 26 | 🐛 4 | 🌐 JavaScript | 📅 2019-10-25 - JSON output.
@@ -51,9 +51,9 @@ Things that produce TAP output.
 
 ### JavaScript
 
-* [AVA](https://github.com/sindresorhus/ava) ⭐ 20,824 | 🐛 81 | 🌐 JavaScript | 📅 2026-06-17 - Futuristic test runner (`$ ava --tap`).
+* [AVA](https://github.com/sindresorhus/ava) ⭐ 20,823 | 🐛 82 | 🌐 JavaScript | 📅 2026-06-17 - Futuristic test runner (`$ ava --tap`).
 * [tape](https://github.com/substack/tape) ⭐ 5,797 | 🐛 40 | 🌐 JavaScript | 📅 2026-09-18 - TAP-producing test harness for Node.js and browsers.
-* [tap](https://github.com/isaacs/node-tap) ⭐ 2,425 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-03 - TAP test framework for Node.js.
+* [tap](https://github.com/isaacs/node-tap) ⭐ 2,426 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-03 - TAP test framework for Node.js.
 * [zora](https://github.com/lorenzofox3/zora) ⭐ 538 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-12 - TAP-producing test runner that works with ES2015 without Babel.
 * [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) ⭐ 394 | 🐛 23 | 🌐 JavaScript | 📅 2024-09-20 - TAP output for Jasmine.
 * [mos](https://github.com/zkochan/mos) ⚠️ Archived - Markdown file generator and tester (`$ mos test --tap`).
@@ -124,4 +124,4 @@ Things that consume TAP output.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
