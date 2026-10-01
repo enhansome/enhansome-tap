@@ -760,7 +760,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2025-11-24T18:57:18Z",
-                "open_issues": 110,
+                "open_issues": 111,
                 "owner": "shellspec",
                 "repo": "shellspec",
                 "stars": 1396,
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:00:25.349Z",
+    "last_updated": "2026-10-01T20:20:23.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
