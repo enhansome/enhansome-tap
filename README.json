@@ -547,7 +547,7 @@
                 "open_issues": 2,
                 "owner": "lorenzofox3",
                 "repo": "zora",
-                "stars": 538,
+                "stars": 537,
                 "topics": [
                   "assertion",
                   "deno",
@@ -1042,7 +1042,7 @@
         {
           "node_type": "item",
           "title": "Discuss",
-          "description": null,
+          "description": "TestAnything/Specification",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:56:41.177Z",
+    "last_updated": "2026-10-03T05:10:29.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
