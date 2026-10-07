@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T20:18:23.898Z",
+    "last_updated": "2026-10-07T20:36:27.262Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
@@ -1079,7 +1079,7 @@
       "open_issues": 0,
       "owner": "sindresorhus",
       "repo": "awesome-tap",
-      "stars": 655,
+      "stars": 654,
       "topics": [
         "awesome",
         "awesome-list",
