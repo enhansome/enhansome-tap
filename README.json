@@ -447,8 +447,8 @@
                 "id": 26820798,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-06-17T10:19:10Z",
-                "open_issues": 86,
+                "last_commit": "2026-10-08T18:43:37Z",
+                "open_issues": 74,
                 "owner": "avajs",
                 "repo": "ava",
                 "stars": 20824,
@@ -582,7 +582,7 @@
                 "open_issues": 23,
                 "owner": "larrymyers",
                 "repo": "jasmine-reporters",
-                "stars": 394,
+                "stars": 393,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:36:27.262Z",
+    "last_updated": "2026-10-08T20:41:26.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",

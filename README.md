@@ -51,11 +51,11 @@ Things that produce TAP output.
 
 ### JavaScript
 
-* [AVA](https://github.com/sindresorhus/ava) ⭐ 20,824 | 🐛 86 | 🌐 JavaScript | 📅 2026-06-17 - Futuristic test runner (`$ ava --tap`).
+* [AVA](https://github.com/sindresorhus/ava) ⭐ 20,824 | 🐛 74 | 🌐 JavaScript | 📅 2026-10-08 - Futuristic test runner (`$ ava --tap`).
 * [tape](https://github.com/substack/tape) ⭐ 5,797 | 🐛 40 | 🌐 JavaScript | 📅 2026-09-18 - TAP-producing test harness for Node.js and browsers.
 * [tap](https://github.com/isaacs/node-tap) ⭐ 2,425 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-03 - TAP test framework for Node.js.
 * [zora](https://github.com/lorenzofox3/zora) ⭐ 537 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-12 - TAP-producing test runner that works with ES2015 without Babel.
-* [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) ⭐ 394 | 🐛 23 | 🌐 JavaScript | 📅 2024-09-20 - TAP output for Jasmine.
+* [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) ⭐ 393 | 🐛 23 | 🌐 JavaScript | 📅 2024-09-20 - TAP output for Jasmine.
 * [mos](https://github.com/zkochan/mos) ⚠️ Archived - Markdown file generator and tester (`$ mos test --tap`).
 * [qunit-tap](https://github.com/twada/qunit-tap) ⭐ 72 | 🐛 1 | 🌐 JavaScript | 📅 2017-04-06 - TAP output for QUnit.
 * [karma-tap-reporter](https://github.com/fumiakiy/karma-tap-reporter) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2016-07-10 - TAP output for Karma.
@@ -124,4 +124,4 @@ Things that consume TAP output.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
