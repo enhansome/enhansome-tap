@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "tape-testing",
                 "repo": "faucet",
-                "stars": 555,
+                "stars": 556,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
@@ -451,7 +451,7 @@
                 "open_issues": 77,
                 "owner": "avajs",
                 "repo": "ava",
-                "stars": 20821,
+                "stars": 20822,
                 "topics": [
                   "assert",
                   "async",
@@ -491,7 +491,7 @@
                 "open_issues": 40,
                 "owner": "tape-testing",
                 "repo": "tape",
-                "stars": 5796,
+                "stars": 5797,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
@@ -512,7 +512,7 @@
                 "open_issues": 16,
                 "owner": "tapjs",
                 "repo": "tapjs",
-                "stars": 2424,
+                "stars": 2425,
                 "topics": [
                   "assert",
                   "bdd",
@@ -763,7 +763,7 @@
                 "open_issues": 111,
                 "owner": "shellspec",
                 "repo": "shellspec",
-                "stars": 1398,
+                "stars": 1399,
                 "topics": [
                   "bash",
                   "bdd",
@@ -815,7 +815,7 @@
                 "open_issues": 0,
                 "owner": "tapjs",
                 "repo": "tap-parser",
-                "stars": 120,
+                "stars": 121,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
@@ -989,8 +989,8 @@
                 "id": 17535311,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-12T17:56:13Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-13T07:04:03Z",
+                "open_issues": 7,
                 "owner": "python-tap",
                 "repo": "tappy",
                 "stars": 148,
@@ -1028,7 +1028,7 @@
             "open_issues": 0,
             "owner": "workshopper",
             "repo": "test-anything",
-            "stars": 169,
+            "stars": 170,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:05.479Z"
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:29:34.360Z",
+    "last_updated": "2026-10-13T20:40:26.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
