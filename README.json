@@ -89,7 +89,7 @@
                 "open_issues": 11,
                 "owner": "axross",
                 "repo": "tap-diff",
-                "stars": 92,
+                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
@@ -447,11 +447,11 @@
                 "id": 26820798,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-18T17:59:39Z",
-                "open_issues": 76,
+                "last_commit": "2026-10-18T19:19:06Z",
+                "open_issues": 74,
                 "owner": "avajs",
                 "repo": "ava",
-                "stars": 20824,
+                "stars": 20825,
                 "topics": [
                   "assert",
                   "async",
@@ -491,7 +491,7 @@
                 "open_issues": 40,
                 "owner": "tape-testing",
                 "repo": "tape",
-                "stars": 5796,
+                "stars": 5797,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
@@ -512,7 +512,7 @@
                 "open_issues": 16,
                 "owner": "tapjs",
                 "repo": "tapjs",
-                "stars": 2425,
+                "stars": 2426,
                 "topics": [
                   "assert",
                   "bdd",
@@ -709,7 +709,7 @@
                 "open_issues": 4,
                 "owner": "jorgebucaran",
                 "repo": "fishtape",
-                "stars": 384,
+                "stars": 385,
                 "topics": [
                   "fish",
                   "fish-plugin",
@@ -989,8 +989,8 @@
                 "id": 17535311,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-13T07:04:03Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-19T17:54:37Z",
+                "open_issues": 8,
                 "owner": "python-tap",
                 "repo": "tappy",
                 "stars": 148,
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:04:39.624Z",
+    "last_updated": "2026-10-19T20:34:42.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
