@@ -451,7 +451,7 @@
                 "open_issues": 74,
                 "owner": "avajs",
                 "repo": "ava",
-                "stars": 20824,
+                "stars": 20823,
                 "topics": [
                   "assert",
                   "async",
@@ -763,7 +763,7 @@
                 "open_issues": 112,
                 "owner": "shellspec",
                 "repo": "shellspec",
-                "stars": 1401,
+                "stars": 1402,
                 "topics": [
                   "bash",
                   "bdd",
@@ -954,8 +954,8 @@
                 "id": 80079176,
                 "language": "JavaScript",
                 "license": "ISC",
-                "last_commit": "2026-10-20T18:08:51Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-20T22:07:06Z",
+                "open_issues": 3,
                 "owner": "derhuerst",
                 "repo": "chutney",
                 "stars": 4,
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:14:52.397Z",
+    "last_updated": "2026-10-21T19:17:31.514Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",

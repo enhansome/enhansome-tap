@@ -51,7 +51,7 @@ Things that produce TAP output.
 
 ### JavaScript
 
-* [AVA](https://github.com/sindresorhus/ava) ⭐ 20,824 | 🐛 74 | 🌐 JavaScript | 📅 2026-10-18 - Futuristic test runner (`$ ava --tap`).
+* [AVA](https://github.com/sindresorhus/ava) ⭐ 20,823 | 🐛 74 | 🌐 JavaScript | 📅 2026-10-18 - Futuristic test runner (`$ ava --tap`).
 * [tape](https://github.com/substack/tape) ⭐ 5,797 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-14 - TAP-producing test harness for Node.js and browsers.
 * [tap](https://github.com/isaacs/node-tap) ⭐ 2,426 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-03 - TAP test framework for Node.js.
 * [zora](https://github.com/lorenzofox3/zora) ⭐ 537 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-12 - TAP-producing test runner that works with ES2015 without Babel.
@@ -74,7 +74,7 @@ Things that produce TAP output.
 ### Bash
 
 * [bats](https://github.com/sstephenson/bats) ⚠️ Archived - Bash Automated Testing System.
-* [ShellSpec](https://github.com/shellspec/shellspec) ⭐ 1,401 | 🐛 112 | 🌐 Shell | 📅 2025-11-24 - A full-featured BDD unit testing framework for POSIX shells.
+* [ShellSpec](https://github.com/shellspec/shellspec) ⭐ 1,402 | 🐛 112 | 🌐 Shell | 📅 2025-11-24 - A full-featured BDD unit testing framework for POSIX shells.
 
 [More…](https://testanything.org/producers.html)
 
@@ -97,7 +97,7 @@ Things that consume TAP output.
 * [smokestack](https://github.com/hughsk/smokestack) ⭐ 245 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-08 - Run TAP tests in a browser and write the output to `stdout`.
 * [tap-dev-tool](https://github.com/Jam3/tap-dev-tool) ⭐ 30 | 🐛 3 | 🌐 JavaScript | 📅 2015-06-16 - Prettify TAP in the browser console.
 * [tap-merge](https://github.com/anko/tap-merge) ⭐ 14 | 🐛 1 | 🌐 LiveScript | 📅 2019-11-21 - Merge multiple TAP streams.
-* [chutney](https://github.com/derhuerst/chutney) ⭐ 4 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-20 - Run TAP tests at Sauce Labs. Lightweight [smokestack](https://github.com/hughsk/smokestack) ⭐ 245 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-08 alternative.
+* [chutney](https://github.com/derhuerst/chutney) ⭐ 4 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-20 - Run TAP tests at Sauce Labs. Lightweight [smokestack](https://github.com/hughsk/smokestack) ⭐ 245 | 🐛 32 | 🌐 JavaScript | 📅 2022-12-08 alternative.
 
 ### Python
 
@@ -124,4 +124,4 @@ Things that consume TAP output.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
