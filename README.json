@@ -447,11 +447,11 @@
                 "id": 26820798,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T19:09:57Z",
-                "open_issues": 74,
+                "last_commit": "2026-10-23T18:35:58Z",
+                "open_issues": 75,
                 "owner": "avajs",
                 "repo": "ava",
-                "stars": 20822,
+                "stars": 20823,
                 "topics": [
                   "assert",
                   "async",
@@ -742,7 +742,7 @@
                 "open_issues": 135,
                 "owner": "sstephenson",
                 "repo": "bats",
-                "stars": 7101,
+                "stars": 7099,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T19:12:30.921Z",
+    "last_updated": "2026-10-23T19:11:35.514Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
