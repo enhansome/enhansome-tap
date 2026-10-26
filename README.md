@@ -51,8 +51,8 @@ Things that produce TAP output.
 
 ### JavaScript
 
-* [AVA](https://github.com/sindresorhus/ava) ⭐ 20,826 | 🐛 75 | 🌐 JavaScript | 📅 2026-10-23 - Futuristic test runner (`$ ava --tap`).
-* [tape](https://github.com/substack/tape) ⭐ 5,798 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-14 - TAP-producing test harness for Node.js and browsers.
+* [AVA](https://github.com/sindresorhus/ava) ⭐ 20,825 | 🐛 76 | 🌐 JavaScript | 📅 2026-10-23 - Futuristic test runner (`$ ava --tap`).
+* [tape](https://github.com/substack/tape) ⭐ 5,797 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-14 - TAP-producing test harness for Node.js and browsers.
 * [tap](https://github.com/isaacs/node-tap) ⭐ 2,426 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-03 - TAP test framework for Node.js.
 * [zora](https://github.com/lorenzofox3/zora) ⭐ 537 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-12 - TAP-producing test runner that works with ES2015 without Babel.
 * [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) ⭐ 393 | 🐛 23 | 🌐 JavaScript | 📅 2024-09-20 - TAP output for Jasmine.
@@ -101,7 +101,7 @@ Things that consume TAP output.
 
 ### Python
 
-* [tappy](https://github.com/mblayman/tappy) ⭐ 148 | 🐛 7 | 🌐 Python | 📅 2026-10-20 - Tools for working with TAP.
+* [tappy](https://github.com/mblayman/tappy) ⭐ 148 | 🐛 8 | 🌐 Python | 📅 2026-10-26 - Tools for working with TAP.
 
 ## Articles
 
@@ -124,4 +124,4 @@ Things that consume TAP output.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
