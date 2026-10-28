@@ -447,11 +447,11 @@
                 "id": 26820798,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T20:01:18Z",
-                "open_issues": 67,
+                "last_commit": "2026-10-27T20:18:59Z",
+                "open_issues": 66,
                 "owner": "avajs",
                 "repo": "ava",
-                "stars": 20824,
+                "stars": 20825,
                 "topics": [
                   "assert",
                   "async",
@@ -760,7 +760,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2025-11-24T18:57:18Z",
-                "open_issues": 113,
+                "open_issues": 114,
                 "owner": "shellspec",
                 "repo": "shellspec",
                 "stars": 1402,
@@ -990,7 +990,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-27T07:31:32Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "python-tap",
                 "repo": "tappy",
                 "stars": 148,
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T20:05:03.090Z",
+    "last_updated": "2026-10-28T20:14:48.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
@@ -1079,7 +1079,7 @@
       "open_issues": 0,
       "owner": "sindresorhus",
       "repo": "awesome-tap",
-      "stars": 658,
+      "stars": 659,
       "topics": [
         "awesome",
         "awesome-list",
