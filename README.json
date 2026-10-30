@@ -451,7 +451,7 @@
                 "open_issues": 66,
                 "owner": "avajs",
                 "repo": "ava",
-                "stars": 20825,
+                "stars": 20826,
                 "topics": [
                   "assert",
                   "async",
@@ -491,7 +491,7 @@
                 "open_issues": 41,
                 "owner": "tape-testing",
                 "repo": "tape",
-                "stars": 5797,
+                "stars": 5798,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
@@ -742,7 +742,7 @@
                 "open_issues": 135,
                 "owner": "sstephenson",
                 "repo": "bats",
-                "stars": 7099,
+                "stars": 7097,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T20:15:58.951Z",
+    "last_updated": "2026-10-30T19:55:37.140Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
