@@ -448,10 +448,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-07T20:12:59Z",
-                "open_issues": 60,
+                "open_issues": 61,
                 "owner": "avajs",
                 "repo": "ava",
-                "stars": 20828,
+                "stars": 20827,
                 "topics": [
                   "assert",
                   "async",
@@ -547,7 +547,7 @@
                 "open_issues": 2,
                 "owner": "lorenzofox3",
                 "repo": "zora",
-                "stars": 537,
+                "stars": 538,
                 "topics": [
                   "assertion",
                   "deno",
@@ -989,8 +989,8 @@
                 "id": 17535311,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-03T13:06:54Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-09T17:46:21Z",
+                "open_issues": 9,
                 "owner": "python-tap",
                 "repo": "tappy",
                 "stars": 148,
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:40:03.682Z",
+    "last_updated": "2026-11-09T23:46:06.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
