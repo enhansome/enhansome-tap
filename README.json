@@ -448,10 +448,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-07T20:12:59Z",
-                "open_issues": 61,
+                "open_issues": 62,
                 "owner": "avajs",
                 "repo": "ava",
-                "stars": 20827,
+                "stars": 20831,
                 "topics": [
                   "assert",
                   "async",
@@ -512,7 +512,7 @@
                 "open_issues": 21,
                 "owner": "tapjs",
                 "repo": "tapjs",
-                "stars": 2425,
+                "stars": 2427,
                 "topics": [
                   "assert",
                   "bdd",
@@ -547,7 +547,7 @@
                 "open_issues": 2,
                 "owner": "lorenzofox3",
                 "repo": "zora",
-                "stars": 538,
+                "stars": 539,
                 "topics": [
                   "assertion",
                   "deno",
@@ -742,7 +742,7 @@
                 "open_issues": 135,
                 "owner": "sstephenson",
                 "repo": "bats",
-                "stars": 7097,
+                "stars": 7098,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
@@ -763,7 +763,7 @@
                 "open_issues": 114,
                 "owner": "shellspec",
                 "repo": "shellspec",
-                "stars": 1402,
+                "stars": 1403,
                 "topics": [
                   "bash",
                   "bdd",
@@ -989,8 +989,8 @@
                 "id": 17535311,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-09T17:46:21Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-10T08:32:47Z",
+                "open_issues": 8,
                 "owner": "python-tap",
                 "repo": "tappy",
                 "stars": 148,
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:46:06.079Z",
+    "last_updated": "2026-11-10T21:17:01.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
