@@ -451,7 +451,7 @@
                 "open_issues": 63,
                 "owner": "avajs",
                 "repo": "ava",
-                "stars": 20831,
+                "stars": 20830,
                 "topics": [
                   "assert",
                   "async",
@@ -488,7 +488,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-11-07T20:26:11Z",
-                "open_issues": 40,
+                "open_issues": 41,
                 "owner": "tape-testing",
                 "repo": "tape",
                 "stars": 5796,
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:55:43.475Z",
+    "last_updated": "2026-11-12T21:50:12.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
