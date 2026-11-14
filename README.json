@@ -451,7 +451,7 @@
                 "open_issues": 63,
                 "owner": "avajs",
                 "repo": "ava",
-                "stars": 20828,
+                "stars": 20829,
                 "topics": [
                   "assert",
                   "async",
@@ -512,7 +512,7 @@
                 "open_issues": 21,
                 "owner": "tapjs",
                 "repo": "tapjs",
-                "stars": 2427,
+                "stars": 2428,
                 "topics": [
                   "assert",
                   "bdd",
@@ -705,8 +705,8 @@
                 "id": 31851515,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2024-05-26T11:16:10Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-14T17:29:31Z",
+                "open_issues": 2,
                 "owner": "jorgebucaran",
                 "repo": "fishtape",
                 "stars": 385,
@@ -742,7 +742,7 @@
                 "open_issues": 135,
                 "owner": "sstephenson",
                 "repo": "bats",
-                "stars": 7097,
+                "stars": 7096,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T21:25:12.998Z",
+    "last_updated": "2026-11-14T19:55:34.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
