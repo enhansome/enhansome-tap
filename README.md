@@ -51,8 +51,8 @@ Things that produce TAP output.
 
 ### JavaScript
 
-* [AVA](https://github.com/sindresorhus/ava) ⭐ 20,828 | 🐛 62 | 🌐 JavaScript | 📅 2026-11-16 - Futuristic test runner (`$ ava --tap`).
-* [tape](https://github.com/substack/tape) ⭐ 5,798 | 🐛 41 | 🌐 JavaScript | 📅 2026-11-07 - TAP-producing test harness for Node.js and browsers.
+* [AVA](https://github.com/sindresorhus/ava) ⭐ 20,829 | 🐛 63 | 🌐 JavaScript | 📅 2026-11-17 - Futuristic test runner (`$ ava --tap`).
+* [tape](https://github.com/substack/tape) ⭐ 5,799 | 🐛 27 | 🌐 JavaScript | 📅 2026-11-17 - TAP-producing test harness for Node.js and browsers.
 * [tap](https://github.com/isaacs/node-tap) ⭐ 2,428 | 🐛 27 | 🌐 JavaScript | 📅 2026-11-05 - TAP test framework for Node.js.
 * [zora](https://github.com/lorenzofox3/zora) ⭐ 539 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-12 - TAP-producing test runner that works with ES2015 without Babel.
 * [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) ⭐ 393 | 🐛 23 | 🌐 JavaScript | 📅 2024-09-20 - TAP output for Jasmine.
@@ -69,7 +69,7 @@ Things that produce TAP output.
 
 ### Fish
 
-* [Fishtape](https://github.com/fisherman/fishtape) ⭐ 385 | 🐛 2 | 🌐 Shell | 📅 2026-11-14 - TAP producer and test harness for fish.
+* [Fishtape](https://github.com/fisherman/fishtape) ⭐ 386 | 🐛 2 | 🌐 Shell | 📅 2026-11-14 - TAP producer and test harness for fish.
 
 ### Bash
 
@@ -101,7 +101,7 @@ Things that consume TAP output.
 
 ### Python
 
-* [tappy](https://github.com/mblayman/tappy) ⭐ 148 | 🐛 9 | 🌐 Python | 📅 2026-11-16 - Tools for working with TAP.
+* [tappy](https://github.com/mblayman/tappy) ⭐ 148 | 🐛 8 | 🌐 Python | 📅 2026-11-17 - Tools for working with TAP.
 
 ## Articles
 
@@ -124,4 +124,4 @@ Things that consume TAP output.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._

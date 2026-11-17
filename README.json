@@ -447,11 +447,11 @@
                 "id": 26820798,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-16T21:12:12Z",
-                "open_issues": 62,
+                "last_commit": "2026-11-17T21:05:56Z",
+                "open_issues": 63,
                 "owner": "avajs",
                 "repo": "ava",
-                "stars": 20828,
+                "stars": 20829,
                 "topics": [
                   "assert",
                   "async",
@@ -487,11 +487,11 @@
                 "id": 6853358,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-07T20:26:11Z",
-                "open_issues": 41,
+                "last_commit": "2026-11-17T22:51:45Z",
+                "open_issues": 27,
                 "owner": "tape-testing",
                 "repo": "tape",
-                "stars": 5798,
+                "stars": 5799,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:05.479Z"
@@ -709,7 +709,7 @@
                 "open_issues": 2,
                 "owner": "jorgebucaran",
                 "repo": "fishtape",
-                "stars": 385,
+                "stars": 386,
                 "topics": [
                   "fish",
                   "fish-plugin",
@@ -989,8 +989,8 @@
                 "id": 17535311,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-16T17:47:10Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-17T08:34:12Z",
+                "open_issues": 8,
                 "owner": "python-tap",
                 "repo": "tappy",
                 "stars": 148,
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:44:20.889Z",
+    "last_updated": "2026-11-17T22:51:55.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
