@@ -74,7 +74,7 @@ Things that produce TAP output.
 ### Bash
 
 * [bats](https://github.com/sstephenson/bats) ⚠️ Archived - Bash Automated Testing System.
-* [ShellSpec](https://github.com/shellspec/shellspec) ⭐ 1,402 | 🐛 114 | 🌐 Shell | 📅 2025-11-24 - A full-featured BDD unit testing framework for POSIX shells.
+* [ShellSpec](https://github.com/shellspec/shellspec) ⭐ 1,403 | 🐛 114 | 🌐 Shell | 📅 2025-11-24 - A full-featured BDD unit testing framework for POSIX shells.
 
 [More…](https://testanything.org/producers.html)
 
@@ -124,4 +124,4 @@ Things that consume TAP output.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
