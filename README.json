@@ -447,8 +447,8 @@
                 "id": 26820798,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-21T20:32:04Z",
-                "open_issues": 64,
+                "last_commit": "2026-11-22T20:42:58Z",
+                "open_issues": 65,
                 "owner": "avajs",
                 "repo": "ava",
                 "stars": 20826,
@@ -763,7 +763,7 @@
                 "open_issues": 114,
                 "owner": "shellspec",
                 "repo": "shellspec",
-                "stars": 1403,
+                "stars": 1404,
                 "topics": [
                   "bash",
                   "bdd",
@@ -1028,7 +1028,7 @@
             "open_issues": 0,
             "owner": "workshopper",
             "repo": "test-anything",
-            "stars": 170,
+            "stars": 171,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:05.479Z"
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:53:41.735Z",
+    "last_updated": "2026-11-22T21:02:32.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
