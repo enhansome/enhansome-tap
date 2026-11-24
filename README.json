@@ -447,11 +447,11 @@
                 "id": 26820798,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-22T20:42:58Z",
-                "open_issues": 65,
+                "last_commit": "2026-11-23T21:12:27Z",
+                "open_issues": 64,
                 "owner": "avajs",
                 "repo": "ava",
-                "stars": 20826,
+                "stars": 20825,
                 "topics": [
                   "assert",
                   "async",
@@ -763,7 +763,7 @@
                 "open_issues": 114,
                 "owner": "shellspec",
                 "repo": "shellspec",
-                "stars": 1404,
+                "stars": 1407,
                 "topics": [
                   "bash",
                   "bdd",
@@ -989,8 +989,8 @@
                 "id": 17535311,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-17T08:34:12Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-23T17:46:28Z",
+                "open_issues": 9,
                 "owner": "python-tap",
                 "repo": "tappy",
                 "stars": 148,
@@ -1067,7 +1067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T21:02:32.346Z",
+    "last_updated": "2026-11-24T02:11:47.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful resources for the Test Anything Protocol",
